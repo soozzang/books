@@ -11,7 +11,7 @@
   - 삽입 삭제를 위해서 루트 노드에서 적절한 위치까지 찾아가서 처리를 해주고
     - 삽입/삭제가 발생한 위치에서 루트 노드로 거꾸로 올라오면서 BF를 확인하여 균형이 깨졌다면 재조정을 해준다.
   - 시간 복잡도
-    - ![img_38.png](img_38.png)
+    - ![img_38.png](images/img_38.png)
     - worst case가 BST에 비해 개선됨
-    - ![img_39.png](img_39.png)
-    - ![img_40.png](img_40.png)
+    - ![img_39.png](images/img_39.png)
+    - ![img_40.png](images/img_40.png)
